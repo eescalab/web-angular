@@ -6,6 +6,10 @@ git clone https://github.com/eescalab/web-angular.git
 
 cd web-angular
 
+#instalar paquetes
+
+npm install
+
 #levantar
 
 ng serve -o
