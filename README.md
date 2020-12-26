@@ -16,3 +16,7 @@ ng serve -o
 
 
 
+usuario 
+admin@test.com
+password
+123456
